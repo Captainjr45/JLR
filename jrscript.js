@@ -34,4 +34,5 @@
     },
     true,
   )
+console.log("Custom Script from GitHub executed successfully!");
 </script>
